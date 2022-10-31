@@ -4,7 +4,7 @@ The AI for Public Services team is part of the Public Policy Programme at the Al
 
 ## Projects
 
-Explore our projects at [insert link on Turing website? - this is still missing]
+Explore our projects at:
 
 ## Documentation
 
