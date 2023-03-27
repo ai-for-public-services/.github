@@ -1,4 +1,4 @@
-![cover photo](https://github.com/ai-for-public-services/.github/blob/main/profile/cover_photo.png)
+![cover photo](https://github.com/ai-for-public-services/.github/blob/main/profile/banner.png)
 
 ## AI for Public Services
 
