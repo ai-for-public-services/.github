@@ -1,12 +1,11 @@
+![cover photo of public bikes](./cover-photo.jpeg)
+
+
 ## AI for Public Services
 
 _**The AI for Public Services team seeks to improve public services and outcomes for citizens through the responsible and effective adoption of AI by governmentr**_
 
 We conduct foundational research investigating the big picture of when and where AI can be applied in government and carry out technical projects with government on the adoption of AI in a specific public sector use case.  
-
-Drawing on our academic expertise, we apply data science methods and reproducible analyses to understand how AI can improve the provision and delivery of public services. Informed by our research programme and sectoral experience, we collaborate with government partners to design and implement AI applications for a particular prediction, detection, or simulation problem. Our expertise is grounded in our knowledge of a range of AI and data science methods, and our understanding of which method is best for a particular government use case. 
-
-We aim to support and work alongside government to plan, develop, and deploy data science and AI methods to improve public services. Our interdisciplinary team brings skills in artificial intelligence, data science, social science, regulation and governance, and experience working in organisations from NESTA, the CDEI, the Department for Digital, Culture, Media & Sport and the Oxford Internet Institute. The unique composition of our team can support with both technical development and integration alongside supporting responsible governance, deployment, and integration. 
 
 We are currently undertaking research work into AI/ML applications for government, mapping decision-making, public sector use of satellite imagery, and exploring operational oversight requirements of systems in use.  Our current work explores uniquely questions of definition, integration, oversight, techniques through the lens of the unique needs of public services. 
 
@@ -33,4 +32,4 @@ We follow convetions advocated by [The Turing Way](https://github.com/alan-turin
 
 ### Contact
 
-To contact the AI for Public Services team email jbright@turing.ac.uk  
+To contact the AI for Public Services team email: jbright@turing.ac.uk. 
