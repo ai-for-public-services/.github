@@ -1,4 +1,4 @@
-![cover photo of public bikes](https://upload.wikimedia.org/wikipedia/commons/b/b2/Santiago%2C_Chile_%28Unsplash_KC170e2pu0s%29.jpg)
+![cover photo of public bikes](./cover-photo.jpeg)
 
 
 ## AI for Public Services
