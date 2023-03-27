@@ -15,13 +15,13 @@ We are currently undertaking research work into AI/ML applications for governmen
 
 Our recent and forthcoming work within these themes includes: 
 
-- **Mapping the use of AI in Government**: Paper presenting a conceptual typology of AI-based systems for government (AI-GOV) which introduces three new multifaceted dimensions: https://arxiv.org/abs/2210.17218 
+- **Mapping the use of AI in Government**: Paper presenting a conceptual typology of AI-based systems for government (AI-GOV) which introduces three new multifaceted dimensions: https://ai-for-public-services.github.io/ai-gov-framework/
+
+- **Satellite imagery and ML for public services**. Paper presented at the Tackling Climate Change with Machine Learning workshop at NeurIPS 2022 which estimates Chicago’s tree cover and canopy height using multi-spectral satellite imagery.  https://ai-for-public-services.github.io/img-rtc-demonstrator/
 
 - **Optimising human-machine collaboration in public sector deployment**: Paper accepted at the Human-Centred AI workshop at NeurIPS 2022 exploring the design of public-sector oversight within high-stakes public services. Current projects will explore team oversight within the public sector and the impact upon oversight and standards of professional bodies. https://osf.io/preprints/socarxiv/arq3w/ 
 
 - **Participatory Governance of AI**: Draft chapter in development exploring the challenges of participatory governance of AI in public administration: https://osf.io/preprints/socarxiv/pdcrm/ 
-
-- **Satellite imagery and ML for public services**. Paper presented at the Tackling Climate Change with Machine Learning workshop at NeurIPS 2022 which estimates Chicago’s tree cover and canopy height using multi-spectral satellite imagery.  
 
 - **Employing AI to improve decisions made around homelessness case study**: prediction, resource allocation and fairness 
 
