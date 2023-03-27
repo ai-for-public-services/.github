@@ -1,5 +1,4 @@
-![cover photo of public bikes](./cover-photo.jpeg)
-
+![](cover-photo.png)
 
 ## AI for Public Services
 
