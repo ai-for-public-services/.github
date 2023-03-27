@@ -1,4 +1,4 @@
-![](cover-photo.png)
+![](./cover-photo.png)
 
 ## AI for Public Services
 
