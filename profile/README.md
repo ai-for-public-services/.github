@@ -2,7 +2,7 @@
 
 ## AI for Public Services
 
-_**The AI for Public Services team seeks to improve public services and outcomes for citizens through the responsible and effective adoption of AI by governmentr**_
+_**The AI for Public Services team seeks to improve public services and outcomes for citizens through the responsible and effective adoption of AI by government.**_
 
 We conduct foundational research investigating the big picture of when and where AI can be applied in government and carry out technical projects with government on the adoption of AI in a specific public sector use case.  
 
@@ -15,7 +15,7 @@ Our recent and forthcoming work within these themes includes:
 
 - **Mapping the use of AI in Government**: Paper presenting a conceptual typology of AI-based systems for government (AI-GOV) which introduces three new multifaceted dimensions: https://ai-for-public-services.github.io/ai-gov-framework/
 
-- **Satellite imagery and ML for public services**. Paper presented at the Tackling Climate Change with Machine Learning workshop at NeurIPS 2022 which estimates Chicago’s tree cover and canopy height using multi-spectral satellite imagery.  https://ai-for-public-services.github.io/img-rtc-demonstrator/
+- **Satellite imagery and ML for public services**. Paper presented at the Tackling Climate Change with Machine Learning workshop at NeurIPS 2022 which estimates Chicago’s tree cover and canopy height using multi-spectral satellite imagery: https://arxiv.org/abs/2212.05061; and a paper which presents a novel pipeline to demonstrate how available aerial imagery can be used to better the provision of services related to the built environment, using the case study of road traffic collisions  https://ai-for-public-services.github.io/img-rtc-demonstrator/
 
 - **Optimising human-machine collaboration in public sector deployment**: Paper accepted at the Human-Centred AI workshop at NeurIPS 2022 exploring the design of public-sector oversight within high-stakes public services. Current projects will explore team oversight within the public sector and the impact upon oversight and standards of professional bodies. https://osf.io/preprints/socarxiv/arq3w/ 
 
